@@ -1,0 +1,19 @@
+Krisenkarten (Bilder und Flavortexte)
+Superkrisen (Bilder und Texte)
+Zielorte (Bilder)
+Meutereikarten
+Titelkarten
+Brett
+Zylonenfuehrer-/Sympathisantenziele
+Charaktere (Rangfolge, Fertigkeitskarten, reworden)
+Verbotene Ziele
+
+Figuren
+Tokens/Spielfiguren/W8
+Schachtel
+
+wording
+	Lasse einen Spieler aus der Brig frei.
+	1 Schaden
+	Aktiver Spieler: etc
+	Bug/Heck
