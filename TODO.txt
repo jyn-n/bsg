@@ -1,13 +1,13 @@
 Krisenkarten (Flavortexte)
 Superkrisen (Texte)
 Zielorte (Bilder)
-Meutereikarten
+Meutereikarten (Alles auszer Texte)
 Titelkarten
-Zylonenfuehrer-/Sympathisantenziele
+Zylonenfuehrer-/Sympathisantenziele (Alles auszer Texte)
 Charaktere (Rangfolge, Fertigkeitskarten, reworden)
 Verbotene Ziele
 
-Brett
+Brett (Alles auszer Texte)
 Figuren
 Tokens/Spielfiguren/W8
 Schachtel
