@@ -1,0 +1,166 @@
+Zylonenorte
+
+
+Caprica
+
+Spiele 1 Superkrise
+oder
+Führe 1 zufällige Krise durch und ignoriere dabei Aktivierungs- und Sprungsymbol
+
+
+Zylonenflotte
+
+Ziehe 2 zufällige Krisen und führe das Aktivierungssymbol von einer durch
+
+
+Menschenflotte
+
+Sieh dir die oberste Karte vom Krisen- oder Zielortsstapel an und lege sie auf oder unter den Stapel
+Ziehe 2 Fertigkeitskarten
+
+
+Auferstehungsschiff
+
+Wirf 2 Fertigkeitskarten ab
+Ziehe 1 Superkrise
+
+
+Basisstern-Brücke
+
+Platziere 1 Basisstern oder 3 Jäger auf diesem Brett
+CAG: Platziere 1 Zivilschiff
++1 Verfolgung
+
+
+Colonial One
+
+
+Sitzungssaal
+
+Ziehe 1 Zwölferratskarte
+Ziehe oder spiele 1 Zwölferratskarte
+
+Nur aktivieren, wenn du Präsident bist
+
+
+Pressezentrum
+
+Wirf 1 Meutereikarte ab
+Ein Menschenspieler, der keine Meuterikarte hat: Ziehe 1 Meutereikarte
+
+
+Regierung
+
+Ziehe 1 Meutereikarte
+Ein Spieler: Werde Präsident
+
+Nur aktivieren, wenn der Präsident eine Meutereikarte hat
+
+
+
+Galactica
+
+
+FTL-Kontrolle
+
+-2 Bevölkerung
++1 Sprungsymbol
+
+Nur aktivieren, falls der Sprungvorbereitungsmarker auf dem letzten Feld ist
+
+
+Waffenkontrolle
+
+Schieße 2 mal auf einen Basisstern
+
+Passiv: Wenn die Verfolgungsleiste das Zielfeld erreicht, schieße auf jeden neu aufgebauten Basisstern
+
+
+Kommandostand
+
+Aktivere 2 Viper
+Bist du der Admiral: Aktiviere 1 Viper
+
+Keine Eskortierung
+
+
+Kommunikation
+
+Aktiviere 2 Viper
+
+Keine Angriffe
+
+
+Admiralsquartier
+
+Wähle einen Menschenspieler
+Fertigkeits-Check:
+	Erfolg: Der Spieler geht in die Brig
+
+
+Forschungslabor
+
+Ziehe 1 Fertigkeitskarte
+Nimm eine 1er-Fertigkeitskarte aus einem Ablagestapel
+
+
+Hangardeck
+
+Starte in einer Viper
++1 Aktion
+
+Nur aktivieren, wenn du Pilot bist
+
+
+Waffenkammer
+
+Greife einen Zenturio an
+
+
+Krankenstation (Risikoort)
+
+Passiv: Du ziehst währen deines Fertigkeitsschrittes nur 1 Karte
+Hast du eine Bewegung oder Aktion, musst du damit diesen Ort verlassen
+
+
+Brig (Risikoort)
+
+Fertigkeits-Check:
+	Erfolg: Du wirst aus der Brig freigelassen
+
+Passiv:
+	Du darfst diesen Ort nicht verlassen
+	Überspringe deinen Krisenschritt
+	Du darfst maximal 1 Karte in jeden Fertigkeits-Check spielen
+
+
+Pegasus
+
+
+Pegasus-CIC
+
+Bewege die Pegasus beliebig weit
+
+Schieße auf 3 unterschiedliche Ziele im Feld der Pegasus
+
+
+Luftschleuse
+
+Wähle einen Spieler
+Fertigkeits-Check:
+	+4 Stärke, falls der Spieler in der Brig ist
+	Erfolg: Dieser Spieler: Exekution
+
+
+Startrampe
+
+Starte in einer Viper
++1 Aktion
+
+Nur aktivieren, wenn du Pilot bist
+
+
+Maschinenraum
+
+Wirf als zusätzliche Kosten 2 Fertigkeitskarten ab
+In deinem Krisenschritt wird die Krise behandelt, als hätte sie ein Sprungsymbol

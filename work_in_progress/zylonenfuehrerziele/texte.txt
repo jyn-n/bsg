@@ -1,0 +1,97 @@
+Die Regierung unter Druck setzen
+DIE REGIERUNG UNTER DRUCK SETZEN
+
+MENSCHEN
+
+Hoechstens 3 Moral
+
+Spielende
+
+
+Lernen zu lieben
+LERNEN ZU LIEBEN
+
+MENSCHEN
+
+Höchstens 4 Bevölkerung
+
+Spielende
+
+
+Die Jagd beenden
+DIE JAGD BEENDEN
+
+MENSCHEN
+
+Mindestens 3 Galactica-Räume beschädigt
+
+Jederzeit
+
+
+$Name
+
+MENSCHEN
+
+Mindestens 1 Basisstern auf dem Hauptspielplan
+Der Sprungvorbereitungsmarker ist auf dem Startfeld
+
+Jederzeit
+
+
+Ein Bündnis schließen
+EIN BÜNDNIS SCHLIEßEN
+
+MENSCHEN
+
+Der Präsident ist in der Brig
+
+Jederzeit
+
+
+Die Menschen in Sicherheit wiegen
+DIE MENSCHEN IN SICHERHEIT WIEGEN
+
+ZYLONEN
+
+Mindestens 3 Moral
+
+Spielende
+
+
+Versuchspersonen Sezieren
+VERSUCHSPERSONEN SEZIEREN
+
+ZYLONEN
+
+Mindestens 3 Bevölkerung
+
+Spielende
+
+
+Sich am Leid der Menschen weiden
+SICH AM LEID DER MENSCHEN WEIDEN
+
+ZYLONEN
+
+Mindestens 8 Entfernung
+
+Spielende
+
+
+Rache üben
+
+ZYLONEN
+
+Ein Spieler: Exekution
+War der Spieler Mensch, verlierst du dieses Ziel
+
+Aktion
+
+
+Keine unnötige Gewalt anwenden
+
+ZYLONEN
+
+Höchstens 3 Galactica-Räume beschädigt
+
+Spielende

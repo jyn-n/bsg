@@ -3,3 +3,7 @@ Lasse einen Spieler aus der Brig frei.
 Aktiver Spieler: etc
 Bug/Heck
 Jeder Basisstern startet 1 Jäger
+CAG: Platziere 1 Zivilschiff
++1 Verfolgung
++1 Sprungsymbol
+Aktiviere 1 Viper

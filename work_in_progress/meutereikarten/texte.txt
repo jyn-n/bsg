@@ -1,0 +1,167 @@
+Unerlaubter Waffengebrauch
+UNERLAUBTER WAFFENGEBRAUCH
+
+Schieße eine Nuklearwaffe auf einen Basisstern ab
+Der Admiral gibt alle Nuklearwaffen ab
+
+Nur spielen, wenn der Admiral noch mindestens eine Nuklearwaffe hat
+
+
+Lockvogel
+LOCKVOGEL
+
+Ziehe 2 Fertigkeitskarten (auch außerhalb deiner Typen)
+
+Mische zwei Verrat-Karten in den Schicksalsstapel
+
+
+Rufmord
+RUFMORD
+
+Ein Menschenspieler:
+	Ziehe 2 Fertigkeitskarten (auch außerhalb deiner Typen)
+	Würfle:
+		1-4:	Gehe in die Brig
+
+
+Passiver Widerstand
+PASSIVER WIDERSTAND
+
+Gehe in die Krankenstation
+Würfle:
+	1-4:	Der Admiral geht in die Brig
+
+
+	Ein Akt der Selbstsucht
+
+Ziehe 2 Fertigkeitskarten
+Ziehe eine Meutereikarte
+
+
+Waffen Scharf machen
+WAFFEN SCHARF MACHEN
+
+Repariere einen zerstörten Raptor
+Jeder Basisstern startet 2 Jäger
+
+
+Gewaltsamer Protest
+GEWALTSAMER PROTEST
+
+Ziehe 2 Politik-Karten
+Präsident: Gehe in die Krankenstation
+
+
+Notwendige Risiken
+NOTWENDIGE RISIKEN
+
++1 Nahrung
+Platziere in einem Weltraumfeld:
+	3 Jäger
+	1 Basisstern
+
+
+Erpressung
+ERPRESSUNG
+
+Nimm 3 zufällige Fertigkeitskarten vom Präsidenten
+
+Nur Spielen, falls du nicht der Präsident bist und er mindestens 3 Fertigkeitskarten hat
+
+
+Einen Standpunkt klar machen
+EINEN STANDPUNKT KLAR MACHEN
+
+1 Schaden
+Aktiviere die Waffenkammer und erhalte +2 auf deinen Würfelwurf
+
+
+Brot für das Volk
+BROT FÜR DAS VOLK
+
+-2 Sprungsymbole
++1 Nahrung
+
+
+Umstrittene Rede
+UMSTRITTENE REDE
+
+Würfle:
+	1-5: Jeder Spieler: Ziehe 1 Verrat-Karte
+	6-8: +1 Moral
+
+
+Pläne Schmieden
+PLÄNE SCHMIEDEN
+
+Präsident:
+	Ziehe 2 Zwölferratskarten
+Sieh dir die Zwölferratskarten des Präsidenten an und lege 2 davon unter den Stapel
+
+
+Ein Handel
+EIN HANDEL
+
+Lasse einen Spieler aus der Brig frei
+Ein Spieler: Ziehe eine Meutereikarte
+
+
+Panik
+PANIK
+
+Platziere 1 Zivilschiff am Heck
+Aktiviere 1 Viper
+
+
+Das Kommando Übernehmen
+DAS KOMMANDO ÜBERNEHMEN
+
+Wirf als zusätzliche Kosten 5 Fertigkeitskarten ab
+Werde Admiral
+
+Nicht spielen, wenn du Admiral oder in der Brig bist
+
+
+Amtsenthebung
+AMTSENTHEBUNG
+
+Wirf als zusätzliche Kosten 5 Fertigkeitskarten ab
+Werde Präsident
+
+Nicht spielen, wenn du Präsident bist
+
+
+Die Flügel stutzen
+DIE FLÜGEL STUTZEN
+
+Alle Viper kehren in die Reserve zurück
+Repariere für jedes Zurückgekehrte Schiff 1 Viper
+Ziehe 2 Verrat-Karten
+
+
+Vertrauensbruch
+VERTRAUENSBRUCH
+
+Ziehe 2 Verrat-Karten
+Sieh dir die oberste Karte des Zielortstapels an und lege sie auf oder unter den Stapel
+
+
+Nur die Starken überleben
+NUR DIE STARKEN ÜBERLEBEN
+
+Zerstöre 1 Zivilschiff
++1 Sprungsymbol
+
+
+Bewaffneter Widerstand
+BEWAFFNETER WIDERSTAND
+
+Admiral: Gehe in die Krankenstation
+Sieh dir die oberste Karte des Krisenstapels an und lege sie auf oder unter den Stapel
+
+
+Die Galactica ausschlachten
+DIE GALACTICA AUSSCHLACHTEN
+
+1 Schaden
+Eskortiere 1 Zivilschiff
