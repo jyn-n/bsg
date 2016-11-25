@@ -13,7 +13,3 @@ Tokens/Spielfiguren/W8
 Schachtel
 
 wording
-	Lasse einen Spieler aus der Brig frei.
-	1 Schaden
-	Aktiver Spieler: etc
-	Bug/Heck

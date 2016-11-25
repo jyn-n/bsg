@@ -1,0 +1,5 @@
+Lasse einen Spieler aus der Brig frei.
+1 Schaden
+Aktiver Spieler: etc
+Bug/Heck
+Jeder Basisstern startet 1 Jäger
