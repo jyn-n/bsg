@@ -1,11 +1,11 @@
 Krisenkarten (Flavortexte, Bilder (letzte Seite))
 Superkrisen (Design, Bild: Psychologische Kriegsfuehrung)
-Zielorte (Bilder)
 Meutereikarten (Design, Bilder)
-Titelkarten
+Titelkarten (Bilder)
 Zylonenfuehrer-/Sympathisantenziele (Design, Bilder)
 Charaktere (Rangfolge, Fertigkeitskarten, reworden)
 Verbotene Ziele
+Loyalitaetskarten (Bilder ueberearbeiten)
 
 Brett (Alles auszer Texte)
 Figuren
