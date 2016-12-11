@@ -1,5 +1,4 @@
 Superkrisen (Design, Bild: Psychologische Kriegsfuehrung)
-Loyalitaetskarten (Bilder ueberarbeiten)
 Meutereikarten (Design, Bilder)
 Zylonenfuehrerziele (Design, Bilder)
 Krisenkarten (Flavortexte, Bilder (letzte Seite))
@@ -13,3 +12,6 @@ Tokens/Spielfiguren/W8
 Schachtel
 
 wording
+
+
+Kevin: Loyalitaetskarten (Bilder nochmal checken)
