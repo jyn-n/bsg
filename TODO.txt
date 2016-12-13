@@ -1,9 +1,10 @@
-Superkrisen (Design, Bild: Psychologische Kriegsfuehrung)
 Meutereikarten (Design, Bilder)
-Zylonenfuehrerziele (Design, Bilder)
-Krisenkarten (Flavortexte, Bilder (letzte Seite))
+Krisenkarten (Flavortexte, Umbenennen, Bilder (letzte Seite))
 Charaktere (Rangfolge, reworden)
 Verbotene Ziele
+Superkrisen (Design)
+Loyalitaetskarten (Bilder nochmal checken)
+Zylonenfuehrerziele (Design, Bilder checken)
 Titelkarten (Bilder)
 
 Brett (Alles auszer Texte)
@@ -14,4 +15,3 @@ Schachtel
 wording
 
 
-Kevin: Loyalitaetskarten (Bilder nochmal checken)
