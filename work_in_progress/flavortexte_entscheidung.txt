@@ -1,10 +1,6 @@
 Amtsniederlegung gefordert
-Ich muss Sie auffordern, Ihr Amt niederzulegen, Frau Präsident.
-- William Adama
-Nein.
-- Laura Roslin
-Dann beende ich Ihre Präsidentschaft
-- William Adama
+Ich muss Sie auffordern, Ihr Amt niederzulegen, Frau Präsident. - Nein! - Dann beende ich hiermit Ihre Präsidentschaft.
+- William Adama und Laura Roslin
 
 Arbeitskampf
 Es gibt eine Menge schmutziger Jobs, die jeden Tag in dieser Flotte gemacht werden müssen: Putzen, Verladen, Routinewartungen, solche Sachen.
@@ -22,6 +18,7 @@ Beschlagnahmung der Demetrius
 Helo hat Ihnen eine Crew ausgesucht. Ich gebe Ihnen ein Schiff. Ich hoffe, der Gestank macht Ihnen nichts.
 - William Adama
 
+\\TODO ganze Krise
 Der Hunger breitet sich aus
 Es gibt kein Essen hier. Es gibt auf dem ganzen Schiff keine Rationen. Wenn Ihnen jemand erzählt hat, es gäbe hier Essen, hat er gelogen.
 - Anastasia "Dee" Dualla
