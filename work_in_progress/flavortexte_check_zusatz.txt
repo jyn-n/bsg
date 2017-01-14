@@ -6,7 +6,7 @@ Racetrack hatte recht. Du hast einfach einen verdammten Anfängerfehler gemacht.
 
 Anstiftung zur Meuterei
 Wie ich Ihnen bereits sagte, ist Mr Zarek wegen Anstiftung zur Auflehnung gegen gesetzliche Anweisungen verhaftet worden.
-Lee "Apollo" Adama
+- Lee "Apollo" Adama
 
 Ausbildung neuer Piloten
 Gehe es leichter an, Trottel! Kat, hörst du mich? Verfolge nicht das Licht, okay?
@@ -28,6 +28,7 @@ Dreiunddreissig Minuten
 Warum kommen die Zylonen alle 33 Minuten? Warum sind es nicht 34 oder 35 oder...? 
 - Cally Henderson
 
+\\TODO ganze Krise
 Drohende Supernova
 Sie wollen nicht mehr hier sein, wenn die Schockwelle der Nova ankommt. Und wir auch nicht.
 - Saul Tigh
@@ -45,8 +46,6 @@ Viper eins, klar zum Start. Navigation grün. Intervallfehler beim Start.
 -Flugcomputer
 
 Friendly Fire
-Entsichere alle Feuerbatterien, um die volle Ladung Feuer zu haben, nahe Entfernung... Jetzt. Feuer!
-- Kendra Shaw
 Verdammt, was ist das? Wir sind innerhalb der Feuerreichweite.
 - Kara "Starbuck" Thrace
 
@@ -56,7 +55,7 @@ Zeit hat man auf diesem Schiff nicht so viel gemerkt. Das wird sich ändern.
 - Lee "Apollo" Adama
 
 Gefangene Raptorcrew
-Drei zivilisten wiedergefunden. Einer tot, zwei verwundet. Einschließlich der XO. Wir werden festgehalten, stehen unter heftigem Beschuss.
+Drei Zivilisten wiedergefunden. Einer tot, zwei verwundet. Einschließlich der XO. Wir werden festgehalten, stehen unter heftigem Beschuss.
 - Kara "Starbuck" Thrace
 
 Gefangenenrevolte
@@ -73,7 +72,7 @@ Die Erde...
 
 Heftige Verluste
 Galactica, Hotdog. Schwer unter Feuer, Ausgang der Mission zweifelhaft.
-Brandon "Hotdog" Costanza
+- Brandon "Hotdog" Costanza
 
 Hexenjagd
 Heute Morgen hat der Mob einen Mann in die Enge getrieben, den man für einen Zylonen gehalten hat... und ihn buchstäblich in Stücke gerissen.
@@ -102,7 +101,7 @@ Vielleicht sollten wir Admiral Cain ebenfalls um ihre Logbücher bitten, damit wi
 
 Massenaufmarsch
 Mehrere DRADIS-Kontakte. Zylonenbasisstern und viele Zylonenjäger erscheinen in 4-8-7 treten in 2-2-1 auf.
-Felix Gaeta
+- Felix Gaeta
 
 Medizinisches Neuland
 Das Wissen, dass Zylonen viel mehr Ausdauer als Menschen besitzen, machte mich neugierig. Könnte also auch ihr Blut mit höherer Abwehrkraft gesegnet sein?
@@ -112,6 +111,7 @@ Obligatorischer Test
 Rufen Sie mich an an, wenn Commander Adamas Test abgeschlossen ist. Werden Sie das tun?
 - Laura Roslin
 
+\\TODO ganze Krise
 Olympic Carrier
 Wir haben neue Befehle. Wir sollen... die Olympic Carrier zerstören und zur Galactica zurückkehren.
 - Sharon "Boomer" Valerii
@@ -122,6 +122,7 @@ Persönliche Rache
 Erreiche Sektor 2-5-9. Halte deine Augen offen, Kat. Das ist der Sektor, wo es BB und Jo-Jo erwischt hat.
 - Kara "Starbuck" Thrace
 
+\\TODO ganze Krise
 Präsidentschaftswahl
 Sie haben verdammt nochmal Recht, was Demokratie und Zustimmung des Volkes angeht. Ich glaube an diese Dinge. Und wir werden sie bekommen.
 - Lee "Apollo" Adama
@@ -165,6 +166,7 @@ Von Verzweiflung übermannt
 Es gibt keine Erde. Das ist ein verfluchter Witz. Es gibt keine Erde.
 - William Adama
 
+\\TODO ganze Krise
 Wächter analysieren
 Baltar und Tyrol haben es geschafft, den Bordcomputer des Jägers herauszuholen und die Navigationsdaten des Schiffes herunterzuladen.
 - Lee "Apollo" Adama
