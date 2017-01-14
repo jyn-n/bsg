@@ -119,6 +119,7 @@ Ich nehme keine Befehle von Ihnen entgegen.
 Nennen Sie es wollen. Ich hole meine Leute.
 - William Adama
 
+\\TODO
 Selbstopferung
 Sie auch, Captain. Lassen Sie die Atombombe zurück, wenn es Ihnen nichts ausmacht.
 - Kendra Shaw
@@ -129,7 +130,7 @@ Die Mission beenden.
 
 Sicherheitschef einweisen
 Sehen Sie sich diesen Raum gut an. Jedes Mal, wenn Sie gehen, prägen Sie sich alles gut ein. Wenn sich etwas ändert, fassen Sie es nicht an.
-Lee "Apollo" Adama
+- Lee "Apollo" Adama
 
 Überlebende aus Caprica
 Die Zylonen haben einen Plan für Caprica. Aber sie haben nicht alle getötet. Unser oberstes Ziel sollte es sein, eine Rettungsmission nach Caprica zu unternehmen.
@@ -163,13 +164,13 @@ Von der Presse belagert
 Also gut, genug jetzt mit diesem Mist. Wir sind hier fertg.
 - Tory Foster
 
-Wasserknappheit
-Ich glaube, wir können zu einer Art Übereinkunft gelangen. Das hier ist nicht die einzige Krise, mit der ich es zu tun habe. Der Wassermangel betrifft die ganze Flotte.
-- Lee "Apollo" Adama
-
 Wahrheit und Versöhnung
 Wir sind alle Opfer der Zylonen und niemand von uns kann unbefangen sein.
 - Laura Roslin
+
+Wasserknappheit
+Ich glaube, wir können zu einer Art Übereinkunft gelangen. Das hier ist nicht die einzige Krise, mit der ich es zu tun habe. Der Wassermangel betrifft die ganze Flotte.
+- Lee "Apollo" Adama
 
 Wir verlassen die Galactica
 Die Magnetbeschleuniger sind das Letzte, was Sie rausholen. Dann schalten Sie das Licht aus und lassen das alte Mädchen in Frieden sterben.
