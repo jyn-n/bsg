@@ -18,11 +18,6 @@ Beschlagnahmung der Demetrius
 Helo hat Ihnen eine Crew ausgesucht. Ich gebe Ihnen ein Schiff. Ich hoffe, der Gestank macht Ihnen nichts.
 - William Adama
 
-\\TODO ganze Krise
-Der Hunger breitet sich aus
-Es gibt kein Essen hier. Es gibt auf dem ganzen Schiff keine Rationen. Wenn Ihnen jemand erzählt hat, es gäbe hier Essen, hat er gelogen.
-- Anastasia "Dee" Dualla
-
 Der Kreis
 Der Kreis hat die Beweise geprüft und befindet Sie des Verrats gegen die Menschheit für schuldig.
 - Diana "Hardball" Seelix
@@ -56,6 +51,10 @@ Ich kenne Lee... Wenn man ihm Druck macht, gibt er nach.
 - Tory Foster
 Richtet die Nuklearwaffen auf die zivile Flotte. Mal sehen, wie hart er kämpfen will.
 - D'Anna Biers
+
+Hunger
+Es gibt kein Essen hier. Es gibt auf dem ganzen Schiff keine Rationen. Wenn Ihnen jemand erzählt hat, es gäbe hier Essen, hat er gelogen.
+- Anastasia "Dee" Dualla
 
 Hungersnot in Dogsville
 Es gibt einen Weg, wie wir uns und die armen Menschen aus Dogsville ernähren. Es gibt einen Weg, wie wir Hoffnung in die unteren Decks tragen. In dieses ganze arme Schiff. Es gibt einen Weg, zu gewinnen.
