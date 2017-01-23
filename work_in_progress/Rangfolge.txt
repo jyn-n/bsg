@@ -1,0 +1,63 @@
+
+President: 										Admiral: 										CAG:	
+1.	Laura Roslin								1.	Helena Cain									1.	Lee "Apollo" Adama
+2.	Laura Roslin, "Die sterbende Anführerin"	2.	"Admiral" William Adama						2.	Kara "Starbuck" Thrace
+3.	Gaius Baltar								3.	William Adama								3.	Kara Trace, "Führerin zur Erde"
+4.	Lee Adama, "Zwölferrat"						4.	Jack Fisk									4.	Louanne "Kat" Katraine
+5.	Lee "Apollo" Adama, Politiker				5.	Saul Tigh									5.	Karl "Helo" Agathon, Pilot
+6.	Tom Zarek									6.	Saul Tigh, "Widerstandsanführer"			6.	Sharon "Boomer" Valerii
+7.	Tom Zarek, "Vizepräsident"					7.	Aaron Kelly									7.	Sharon "Athena" Agathon
+8.	Romo Lampkin								8.	Kendra Shaw 								8.	Brendan "Hot Dog" Costanza
+9.	Tory Foster									9.	Alastair Thorne								9.	Margaret "Racetrack" Edmondson
+10.	Billy Keikeya								10.	Karl "Helo" Agathon							10.	Alex "Crashdown" Quartararo
+11.	Ellen Tigh									11.	Karl Agathon, "XO"							11.	Samuel T. Anders
+12.	Priesterin Elosha							12.	Felix Gaeta									12.	Daniel "Bulldog" Novacek
+13.	Lee "Apollo" Adama							13.	Louis Hoshi									13.	Diana "Hardball" Seelix
+14.	"Caprica"-Sechs								14.	Tom Zarek, Militär							14.	Samuel T. Anders, Militär
+15.	Gaius Baltar, "Monotheist"					15.	Samuel T. Anders, Militär					15.	Karl "Helo" Agathon
+16.	Ellen Tigh 									16.	Anastasia "Dee" Dualla 						16.	Karl Agathon, "XO"
+17.	Didi Cassidy								17.	Lee "Apollo" Adama							17.	Aaron Kelly
+18.	DAnna Biers									18.	Kendra Shaw									18.	Jack Fisk
+19.	Aaron Doral									19.	Barry Garner								19.	Kendra Shaw 
+20.	Leoben Conoy								20.	Anastasia "Dee" Dualla						20.	Anastasia "Dee" Dualla 
+21.	Simon O'Neil								21.	"Union Anführer" Galen Tyrol				21.	"Admiral" William Adama
+22.	John Cavil									22.	"Chief" Galen Tyrol							22.	William Adama
+23.	"Union Anführer" Galen Tyrol				23.	Karl "Helo" Agathon, Pilot					23.	Helena Cain
+24.	"Chief" Galen Tyrol							24.	Kara "Starbuck" Thrace						24.	Saul Tigh
+25.	Gaius Baltar, Supporter						25.	Kara Trace, "Führerin zur Erde"				25.	Saul Tigh, "Widerstandsanführer"
+26.	Callandra "Cally" Tyrol						26.	Louanne "Kat" Katraine						26.	Felix Gaeta
+27.	Cally Henderson								27.	Sharon "Athena" Agathon						27.	Louis Hoshi
+28.	Gina Inviere								28.	Sharon "Boomer" Valerii						28.	Tom Zarek, Militär
+29.	Peter Laird									29.	Brendan "Hot Dog" Costanza					29.	Alastair Thorne
+30.	Diana "Hardball" Seelix						30.	Samuel T. Anders							30.	Kendra Shaw
+31.	Margaret "Racetrack" Edmondson				31.	Alex "Crashdown" Quartararo					31.	Anastasia "Dee" Dualla
+32.	Karl "Helo" Agathon, Pilot					32.	Margaret "Racetrack" Edmondson				32.	"Union Anführer" Galen Tyrol
+33.	Sharon "Boomer" Valerii						33.	Daniel "Bulldog" Novacek					33.	"Chief" Galen Tyrol
+34.	Brendan "Hot Dog" Costanza					34.	Diana "Hardball" Seelix						34.	Barry Garner
+35.	Daniel "Bulldog" Novacek					35.	Callandra "Cally" Tyrol						35.	Gina Inviere
+36.	Alex "Crashdown" Quartararo					36.	Cally Henderson								36.	Callandra "Cally" Tyrol
+37.	Sharon "Athena" Agathon						37.	Sherman "Doc" Cottle						37.	Cally Henderson
+38.	Samuel T. Anders							38.	Peter Laird									38.	Peter Laird
+39.	Kara "Starbuck" Thrace						39.	Gina Inviere								39.	Sherman "Doc" Cottle
+40.	Kara Trace, "Führerin zur Erde"				40.	Gaius Baltar, Supporter						40.	Gaius Baltar, Supporter
+41.	Louanne "Kat" Katraine						41.	Leoben Conoy								41.	"Caprica"-Sechs
+42.	Barry Garner								42.	"Caprica"-Sechs								42.	Leoben Conoy
+43.	Sherman "Doc" Cottle						43.	Aaron Doral									43.	Didi Cassidy
+44.	Anastasia "Dee" Dualla						44.	John Cavil									44.	Ellen Tigh 
+45.	Kendra Shaw									45.	Simon O'Neil								45.	Gaius Baltar, "Monotheist"
+46.	Tom Zarek, Militär							46.	DAnna Biers									46.	John Cavil
+47.	Felix Gaeta									47.	Didi Cassidy								47.	Aaron Doral
+48.	Samuel T. Anders, Militär					48.	Gaius Baltar, "Monotheist"					48.	Simon O'Neil
+49.	Anastasia "Dee" Dualla 						49.	Ellen Tigh 									49.	DAnna Biers
+50.	William Adama								50.	Lee Adama, "Zwölferrat"						50.	Lee Adama, "Zwölferrat"
+51.	"Admiral" William Adama						51.	Lee "Apollo" Adama, Politiker				51.	Lee "Apollo" Adama, Politiker
+52.	Karl "Helo" Agathon							52.	Tom Zarek									52.	Tom Zarek
+53.	Karl Agathon, "XO"							53.	Tom Zarek, "Vizepräsident"					53.	Tom Zarek, "Vizepräsident"
+54.	Helena Cain									54.	Ellen Tigh									54.	Ellen Tigh
+55.	Louis Hoshi									55.	Gaius Baltar								55.	Gaius Baltar
+56.	Saul Tigh									56.	Romo Lampkin								56.	Billy Keikeya
+57.	Saul Tigh, "Widerstandsanführer"			57.	Tory Foster									57.	Tory Foster
+58.	Aaron Kelly									58.	Laura Roslin								58.	Romo Lampkin
+59.	Jack Fisk									59.	Laura Roslin, "Die sterbende Anführerin"	59.	Laura Roslin, "Die sterbende Anführerin"
+60.	Kendra Shaw 								60.	Billy Keikeya								60.	Laura Roslin
+61.	Alastair Thorne								61.	Priesterin Elosha							61.	Priesterin Elosha
