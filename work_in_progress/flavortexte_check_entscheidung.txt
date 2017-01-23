@@ -54,8 +54,8 @@ Erkundungsteam
 Es erscheint mir viel effizienter, wenn ich meine eigenen Proben nehme.
 - Gaius Baltar
 
-Erpresste Minenarbei
-Sagen Sie ihren Leuten, dass sie uns helfen, das Wasser von diesem Mond zu holen.
+Erpresste Minenarbeit
+Ihre Männer werden uns helfen, dieses Wasser zu fördern.
 - Lee "Apollo" Adama
 
 Feindjäger untersuchen
@@ -86,13 +86,14 @@ Medikamenten-Cocktail
 Auf die Art brauchen Sie das letzte bisschen Leben auf, das Sie noch haben.
 - Sherman "Doc" Cottle
 
-Mysteriöse Nachricht
-Traumnebel tröpfeln um das werdende Echo... und Liebe vergeht. Zeilenende.
-- Hybrid
-
 Mysteriöser Führer
 Du bist nicht Leoben.
 - Kara "Starbuck" Thrace
+
+\TODO ganze Krise
+Mysteriöse Nachricht
+Traumnebel tröpfeln um das werdende Echo... und Liebe vergeht. Zeilenende.
+- Hybrid
 
 Netzwerkcomputer
 Der alte Mann würde das niemals erlauben. Keine Netzwerke auf seinem Schiff.
