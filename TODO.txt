@@ -1,9 +1,10 @@
-Meutereikarten (Design, Flavortexte)
+﻿Meutereikarten (Design, Flavortexte)
 Krisenkarten (Flavortexte, hellere Taktik)
 Charaktere (Rangfolge, reworden)
 Verbotene Ziele
 Superkrisen (Design, Flavortexte)
 Zylonenfuehrerziele (Design)
+Rueckseiten
 
 Brett (Alles auszer Texte)
 Figuren
