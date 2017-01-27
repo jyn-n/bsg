@@ -1,0 +1,62 @@
+President,Admiral,CAG
+Laura Roslin,Helena Cain,Lee "Apollo" Adama
+Laura Roslin- "Die sterbende Anführerin","Admiral" William Adama,Kara "Starbuck" Thrace
+Gaius Baltar,William Adama,Kara Trace- "Führerin zur Erde"
+Lee Adama- "Zwölferrat",Jack Fisk,Louanne "Kat" Katraine
+Lee "Apollo" Adama- Politiker,Saul Tigh,Karl "Helo" Agathon- Pilot
+Tom Zarek,Saul Tigh- "Widerstandsanführer",Sharon "Boomer" Valerii
+Tom Zarek- "Vizepräsident",Aaron Kelly,Sharon "Athena" Agathon
+Romo Lampkin,Kendra Shaw,Brendan "Hot Dog" Costanza
+Tory Foster,Alastair Thorne,Margaret "Racetrack" Edmondson
+Billy Keikeya,Karl "Helo" Agathon,Alex "Crashdown" Quartararo
+Ellen Tigh,Karl Agathon- "XO",Samuel T. Anders
+Priesterin Elosha,Felix Gaeta,Daniel "Bulldog" Novacek
+Lee "Apollo" Adama,Louis Hoshi,Diana "Hardball" Seelix
+"Caprica"-Sechs,Tom Zarek- Militär,Samuel T. Anders- Militär
+Gaius Baltar- "Monotheist",Samuel T. Anders- Militär,Karl "Helo" Agathon
+Ellen Tigh,Anastasia "Dee" Dualla,Karl Agathon- "XO"
+Didi Cassidy,Lee "Apollo" Adama,Aaron Kelly
+DAnna Biers,Kendra Shaw,Jack Fisk
+Aaron Doral,Barry Garner,Kendra Shaw 
+Leoben Conoy,Anastasia "Dee" Dualla,Anastasia "Dee" Dualla 
+Simon O'Neil,"Union Anführer" Galen Tyrol,"Admiral" William Adama
+John Cavil,"Chief" Galen Tyrol,William Adama
+"Union Anführer" Galen Tyrol,Karl "Helo" Agathon- Pilot,Helena Cain
+"Chief" Galen Tyrol,Kara "Starbuck" Thrace,Saul Tigh
+Gaius Baltar- Supporter,Kara Trace- "Führerin zur Erde",Saul Tigh- "Widerstandsanführer"
+Callandra "Cally" Tyrol,Louanne "Kat" Katraine,Felix Gaeta
+Cally Henderson,Sharon "Athena" Agathon,Louis Hoshi
+Gina Inviere,Sharon "Boomer" Valerii,Tom Zarek- Militär
+Peter Laird,Brendan "Hot Dog" Costanza,Alastair Thorne
+Diana "Hardball" Seelix,Samuel T. Anders,Kendra Shaw
+Margaret "Racetrack" Edmondson,Alex "Crashdown" Quartararo,Anastasia "Dee" Dualla
+Karl "Helo" Agathon- Pilot,Margaret "Racetrack" Edmondson,"Union Anführer" Galen Tyrol
+Sharon "Boomer" Valerii,Daniel "Bulldog" Novacek,"Chief" Galen Tyrol
+Brendan "Hot Dog" Costanza,Diana "Hardball" Seelix,Barry Garner
+Daniel "Bulldog" Novacek,Callandra "Cally" Tyrol,Gina Inviere
+Alex "Crashdown" Quartararo,Cally Henderson,Callandra "Cally" Tyrol
+Sharon "Athena" Agathon,Sherman "Doc" Cottle,Cally Henderson
+Samuel T. Anders,Peter Laird,Peter Laird
+Kara "Starbuck" Thrace,Gina Inviere,Sherman "Doc" Cottle
+Kara Trace- "Führerin zur Erde",Gaius Baltar- Supporter,Gaius Baltar- Supporter
+Louanne "Kat" Katraine,Leoben Conoy,"Caprica"-Sechs
+Barry Garner,"Caprica"-Sechs,Leoben Conoy
+Sherman "Doc" Cottle,Aaron Doral,Didi Cassidy
+Anastasia "Dee" Dualla,John Cavil,Ellen Tigh 
+Kendra Shaw,Simon O'Neil,Gaius Baltar- "Monotheist"
+Tom Zarek- Militär,DAnna Biers,John Cavil
+Felix Gaeta,Didi Cassidy,Aaron Doral
+Samuel T. Anders- Militär,Gaius Baltar- "Monotheist",Simon O'Neil
+Anastasia "Dee" Dualla,Ellen Tigh,DAnna Biers
+William Adama,Lee Adama- "Zwölferrat",Lee Adama- "Zwölferrat"
+"Admiral" William Adama,Lee "Apollo" Adama- Politiker,Lee "Apollo" Adama- Politiker
+Karl "Helo" Agathon,Tom Zarek,Tom Zarek
+Karl Agathon- "XO",Tom Zarek- "Vizepräsident",Tom Zarek- "Vizepräsident"
+Helena Cain,Ellen Tigh,Ellen Tigh
+Louis Hoshi,Gaius Baltar,Gaius Baltar
+Saul Tigh,Romo Lampkin,Billy Keikeya
+Saul Tigh- "Widerstandsanführer",Tory Foster,Tory Foster
+Aaron Kelly,Laura Roslin,Romo Lampkin
+Jack Fisk,Laura Roslin- "Die sterbende Anführerin",Laura Roslin- "Die sterbende Anführerin"
+Kendra Shaw,Billy Keikeya,Laura Roslin
+Alastair Thorne,Priesterin Elosha,Priesterin Elosha
