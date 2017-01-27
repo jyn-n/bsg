@@ -1,9 +1,9 @@
 ﻿Meutereikarten (Flavortexte)
 Superkrisen (Flavortexte)
-Krisenkarten (Flavortexte, hellere Taktik)
+Krisenkarten (Flavortexte)
 Charaktere (Rangfolge, reworden, fehlende checken)
 Verbotene Ziele
-Rueckseiten
+Rueckseiten (Charaktere, Fertigkeiten, Krisen, Loyalitaetskarten, Verbotene Ziele, Zielorte)
 Token-Design
 
 Brett (Alles auszer Texte)
