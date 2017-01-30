@@ -1,6 +1,6 @@
 ﻿Flavortexte (Superkrisen, Krisenkarten)
 Rueckseiten (Charaktere, Fertigkeiten, Krisen, Loyalitaetskarten, Verbotene Ziele, Zielorte)
-Charaktere (Rangfolge, reworden, fehlende checken)
+Charaktere (Rangfolge, reworden)
 Verbotene Ziele (Zerstoerung)
 Token-Design
 Brett (Alles auszer Texte)
