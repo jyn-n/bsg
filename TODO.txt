@@ -1,4 +1,4 @@
-﻿Flavortexte (Superkrisen, Krisenkarten)
+﻿Flavortexte (Krisenkarten)
 Rueckseiten (Charaktere, Fertigkeiten, Krisen, Loyalitaetskarten, Verbotene Ziele, Zielorte)
 Charaktere (Rangfolge, reworden)
 Verbotene Ziele (Zerstoerung)
