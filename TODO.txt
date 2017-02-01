@@ -1,5 +1,4 @@
-﻿Flavortexte (Krisenkarten)
-Rueckseiten (Charaktere, Fertigkeiten, Krisen, Loyalitaetskarten, Verbotene Ziele, Zielorte)
+﻿Rueckseiten (Charaktere, Fertigkeiten, Krisen, Loyalitaetskarten, Verbotene Ziele, Zielorte)
 Charaktere (Rangfolge, reworden)
 Verbotene Ziele (Zerstoerung)
 Token-Design

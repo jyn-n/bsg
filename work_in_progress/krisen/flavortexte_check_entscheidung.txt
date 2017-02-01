@@ -90,7 +90,6 @@ Mysteriöser Führer
 Du bist nicht Leoben.
 - Kara "Starbuck" Thrace
 
-\TODO ganze Krise
 Mysteriöse Nachricht
 Traumnebel tröpfeln um das werdende Echo... und Liebe vergeht. Zeilenende.
 - Hybrid
@@ -120,10 +119,12 @@ Treibstoff-Suchtrupp
 - Laura Roslin
 
 Unterdrückte Zivilisten
-//TODO
+Wir wollen niemandem etwas tun. Aber wenn nötig wenden wir Gewalt an.
+- Kendra Shaw
 
 Verrat bestrafen
-//TODO
+Erniedrigung, Furcht, Scham. Ich möchte, dass sie wirklich seine Grenzen ausloten.
+- Helena Cain
 
 Verratsbezichtigung
 Ich werde dafür sorgen, dass Sie überführt und als Verräter zum Tode verurteilt werden.

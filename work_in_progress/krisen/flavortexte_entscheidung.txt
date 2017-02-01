@@ -88,17 +88,19 @@ Neulinge ausbilden
 Hängt euch rein und macht, was man euch beigebracht hat.
 - Sharon "Athena" Agathon
 
-//TODO
 Prophetische Tobsucht
+Kara Thrace wird die menschliche Rasse ihrem Ende entgegenführen... Sie ist der Herold der Apokalypse, der Vorbote der Todes. Sie dürfen ihr nicht folgen.
+- Erster Hybrid
+
+Razor
+Jede natürliche Hemmung, die in einer Schlacht über Leben und Tod entscheiden kann. Wenn Sie das überwinden können, so lange, wie es eben nötig ist, dann werden Sie zu Stahl.
+- Helena Cain
 
 Rettung der Flotte
 Die Zylonen warten dort auf uns. Wie lange wird die Berechnung dauern, wenn wir dorthin zurückgehen?
 - Saul Tigh
 Zwölf Stunden.
 - Felix Gaeta
-
-//TODO
-Razor
 
 Rettungsmission
 Verstanden, Boomer. Suchteams sind unterwegs für Starbuck. Bring Hotdog rein, der alte Mann will mit ihm reden.
@@ -118,14 +120,11 @@ Ich nehme keine Befehle von Ihnen entgegen.
 Nennen Sie es wollen. Ich hole meine Leute.
 - William Adama
 
-\\TODO
 Selbstopferung
-Sie auch, Captain. Lassen Sie die Atombombe zurück, wenn es Ihnen nichts ausmacht.
+Sie auch, Captain. Könnten Sie die Bombe hierlassen?
 - Kendra Shaw
-Verdammt, was machen Sie?
+Was zum Teufel soll das werden?
 - Kara "Starbuck" Thrace
-Die Mission beenden.
-- Kendra Shaw
 
 Sicherheitschef einweisen
 Sehen Sie sich diesen Raum gut an. Jedes Mal, wenn Sie gehen, prägen Sie sich alles gut ein. Wenn sich etwas ändert, fassen Sie es nicht an.
@@ -160,7 +159,7 @@ Wenn das hier hochgegangen wäre, hätten wir die Teile vom Raptor und den Leuten 
 - Galen Tyrol
 
 Von der Presse belagert
-Also gut, genug jetzt mit diesem Mist. Wir sind hier fertg.
+Also gut, genug jetzt mit diesem Mist. Wir sind hier fertig.
 - Tory Foster
 
 Wahrheit und Versöhnung

@@ -28,7 +28,6 @@ Dreiunddreissig Minuten
 Warum kommen die Zylonen alle 33 Minuten? Warum sind es nicht 34 oder 35 oder...? 
 - Cally Henderson
 
-\\TODO ganze Krise
 Drohende Supernova
 Sie wollen nicht mehr hier sein, wenn die Schockwelle der Nova ankommt. Und wir auch nicht.
 - Saul Tigh
@@ -90,9 +89,8 @@ Kommunikationsstörung
 Wir haben die Kommunikation verloren. Die Zylonen müssen uns gestört haben.
 - Kara "Starbuck" Thrace
 
-//TODO
 Konfrontation am Höhepunkt
-Ich vertraute ihren Visionen. Das sind nur Visionen.
+Sie hatten eine Vision, wissen Sie nicht mehr? Der Pfeil, der Tempel. Ich bin Ihnen auf diesen Planeten gefolgt und es war ein Toastergemetzel. Viele gute Leute sind gestorben.
 - Kara "Starbuck" Thrace
 
 Logbuch durchsehen
@@ -111,7 +109,6 @@ Obligatorischer Test
 Rufen Sie mich an an, wenn Commander Adamas Test abgeschlossen ist. Werden Sie das tun?
 - Laura Roslin
 
-\\TODO ganze Krise
 Olympic Carrier
 Wir haben neue Befehle. Wir sollen... die Olympic Carrier zerstören und zur Galactica zurückkehren.
 - Sharon "Boomer" Valerii
@@ -122,7 +119,6 @@ Persönliche Rache
 Erreiche Sektor 2-5-9. Halte deine Augen offen, Kat. Das ist der Sektor, wo es BB und Jo-Jo erwischt hat.
 - Kara "Starbuck" Thrace
 
-\\TODO ganze Krise
 Präsidentschaftswahl
 Sie haben verdammt nochmal Recht, was Demokratie und Zustimmung des Volkes angeht. Ich glaube an diese Dinge. Und wir werden sie bekommen.
 - Lee "Apollo" Adama
@@ -131,9 +127,8 @@ Schwerer Beschuss
 Wir haben einen Treffer auf der Steuerbord-Seite. Das Schadenskontrollteam ist unterwegs.
 - Anastasia "Dee" Dualla
 
-//TODO
 Suchen und Retten
-Eine warme Quelle. Könnte biologisch sein. In der Nähe des Kerns, das ist alles.
+Halt, ich empfange vier weitere Signale. Zwei davon ziemlich schwach, aber sie sind etwa 30 Meter vor uns.
 - Dasilva
 
 Terrorfahndung
@@ -166,7 +161,6 @@ Von Verzweiflung übermannt
 Es gibt keine Erde. Das ist ein verfluchter Witz. Es gibt keine Erde.
 - William Adama
 
-\\TODO ganze Krise
 Wächter analysieren
 Baltar und Tyrol haben es geschafft, den Bordcomputer des Jägers herauszuholen und die Navigationsdaten des Schiffes herunterzuladen.
 - Lee "Apollo" Adama
@@ -175,7 +169,6 @@ Widerstand
 Drei weitere Schiffe lehnen es ab, die Galactica mit Nachschub zu versorgen, solange die Präsidentin nicht wieder im Amt ist.
 - Felix Gaeta
 
-//TODO
 Zylonen enttarnen
-Mr Hoshi, können Sie uns ein Überwachungsbild von Luftschleuse 4 geben?
-Kendra Shaw
+Sie ist eine Zylonenspionin, die aussieht wie wir... Mr Hoshi, zeigen Sie uns bitte die Überwachungsbilder von Leuftschleuse Vier.
+- Kendra Shaw
