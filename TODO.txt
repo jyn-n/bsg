@@ -1,6 +1,7 @@
 ﻿Rueckseiten (Charaktere, Fertigkeiten, Verbotene Ziele, Zielorte)
 Charaktere (Rangfolge, reworden)
 Verbotene Ziele (Zerstoerung)
+Zielorte schmaler machen
 Token-Design
 Brett (Alles auszer Texte)
 
