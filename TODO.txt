@@ -1,4 +1,4 @@
-﻿Rueckseiten (Charaktere, Fertigkeiten, Verbotene Ziele, Zielorte)
+﻿Rueckseiten (Charaktere, Fertigkeiten, Verbotene Ziele, Zylonenführerziele)
 Charaktere (Rangfolge, reworden)
 Verbotene Ziele (Zerstoerung)
 Zielorte schmaler machen
