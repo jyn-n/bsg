@@ -2,3 +2,4 @@ Räder 80
 Quadrat 20, 30, 50, 60
 Kreise 10, 20
 Dreieck 22, 40
+Kartenbreite (klein) 44.5
