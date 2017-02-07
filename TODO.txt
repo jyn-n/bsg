@@ -5,6 +5,7 @@ Zielorte schmaler machen
 Token-Design
 Brett (Alles auszer Texte)
 Anderes Bild fuer Basisstern-Bruecke
+Brett-Texte und Mechaniken ueberarbeiten
 
 Figuren
 Tokens/Spielfiguren/W8
