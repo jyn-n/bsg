@@ -4,6 +4,7 @@ Verbotene Ziele (Zerstoerung)
 Zielorte schmaler machen
 Token-Design
 Brett (Alles auszer Texte)
+Anderes Bild fuer Basisstern-Bruecke
 
 Figuren
 Tokens/Spielfiguren/W8
