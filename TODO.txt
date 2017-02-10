@@ -1,5 +1,5 @@
-﻿Rueckseiten (Charaktere, Fertigkeiten, Verbotene Ziele)
-Charaktere (Rangfolge, reworden)
+﻿Rueckseiten (Charaktere, Verbotene Ziele)
+Charaktere (Rangfolge, reworden, ueberarbeiten)
 Verbotene Ziele (Zerstoerung)
 Zielorte schmaler machen
 Token-Design
