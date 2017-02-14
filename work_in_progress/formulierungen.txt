@@ -7,3 +7,5 @@ CAG: Platziere 1 Zivilschiff
 +1 Verfolgung
 +1 Sprungsymbol
 Aktiviere 1 Viper
+einen Raptor fliegst
+Keine Angriffe/Eskortierungen
