@@ -1,9 +1,7 @@
 ﻿Fertigkeitskarten (reworden, Bilder)
 Rueckseiten (Charaktere, Verbotene Ziele)
-Charaktere (reworden, resize)
+Charaktere (reworden)
 Zielorte schmaler machen
-Zivilschiffe fertig
-Doppeltreffer
 Wundermarker
 Enterkommando-Marker
 Atombombe
