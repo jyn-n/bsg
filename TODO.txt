@@ -2,7 +2,6 @@
 Rueckseiten (Charaktere, Verbotene Ziele)
 Charaktere (reworden)
 Zielorte schmaler machen
-Wundermarker
 Enterkommando-Marker
 Atombombe
 Brett (Verfolgungsleiste, Texte einfuegen, Probedrucke, Raeder-Oberseite, Raeder-Hintergrund ggfs)
