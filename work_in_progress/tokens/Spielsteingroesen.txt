@@ -1,8 +1,8 @@
-Räder 80
-Quadrat 20, 30, 50, 60
-Kreise 10, 20
-Dreieck 22, 40
-Holzsteine 21
-Kartenbreite (klein) 44.5 * 63.5
-Kartenbreite (mittel) 57 * 89
-Charaktere 88.9 * 146
+Räder 80 mm Durchmesser
+Quadrat 20, 30, 50, 60 mm Seitenlaenge
+Kreise 10, 20, 28 mm Durchmesser
+Dreieck 22, 40 mm Seitenlaenge, gleichseitig
+Holzsteine 21 mm Seitenlaenge
+Kartenbreite (klein) 44.5 * 63.5 mm
+Kartenbreite (mittel) 57 * 89 mm
+Charaktere 88.9 * 146 mm
