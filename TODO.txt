@@ -1,14 +1,17 @@
 ﻿Fertigkeitskarten (reworden, Bilder)
 Rueckseiten (Charaktere, Verbotene Ziele)
 Charaktere (reworden, resize)
-Verbotene Ziele (Zerstoerung)
 Zielorte schmaler machen
-Token-Design
-Brett (Alles auszer Texte)
+Zivilschiffe fertig
+Doppeltreffer
+Wundermarker
+Enterkommando-Marker
+Atombombe
+Brett (Verfolgungsleiste, Texte einfuegen, Probedrucke, Raeder-Oberseite, Raeder-Hintergrund ggfs)
 Brett-Texte und Mechaniken ueberarbeiten
 
 Figuren
 Tokens/Spielfiguren/W8
+Brett
 Schachtel
-
-wording
+Karten bestellen
