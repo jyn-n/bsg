@@ -1,10 +1,9 @@
 ﻿Fertigkeitskarten (reworden, Bilder)
-Rueckseiten (Charaktere, Verbotene Ziele)
+Rueckseiten (Charaktere)
 Charaktere (reworden)
 Zielorte schmaler machen
 Enterkommando-Marker
-Atombombe
-Brett (Verfolgungsleiste, Texte einfuegen, Probedrucke, Raeder-Oberseite, Raeder-Hintergrund ggfs)
+Brett (Texte einfuegen, Probedrucke, Raeder-Oberseite, Raeder-Hintergrund ggfs)
 Brett-Texte und Mechaniken ueberarbeiten
 
 Figuren
