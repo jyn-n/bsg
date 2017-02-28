@@ -4,8 +4,7 @@ Zylonenorte
 Caprica
 
 Spiele 1 Superkrise
-oder
-Führe 1 zufällige Krise durch und ignoriere dabei Aktivierungs- und Sprungsymbol
+
 
 
 Zylonenflotte
@@ -21,13 +20,12 @@ Ziehe 2 Fertigkeitskarten
 
 Auferstehungsschiff
 
-Wirf 2 Fertigkeitskarten ab
 Ziehe 1 Superkrise
 
 
 Basisstern-Brücke
 
-Platziere 1 Basisstern oder 3 Jäger auf diesem Brett
+Platziere 1 Basisstern oder 3 Jäger in die Verfolgungsflotte
 CAG: Platziere 1 Zivilschiff
 +1 Verfolgung
 
@@ -63,17 +61,17 @@ Galactica
 
 FTL-Kontrolle
 
--2 Bevölkerung
-+1 Sprungsymbol
+-X Bevölkerung
+Die Flotte springt
+War der Sprungvorbereitungsmarker auf dem vorletzten Feld, platziere ihn vor das erste Feld
 
-Nur aktivieren, falls der Sprungvorbereitungsmarker auf dem letzten Feld ist
+Nur aktivieren, falls der Sprungvorbereitungsmarker auf einem blauen Feld ist
 
 
 Waffenkontrolle
 
-Schieße 2 mal auf einen Basisstern
+Schieße auf einen Basisstern (5+)
 
-Passiv: Wenn die Verfolgungsleiste das Zielfeld erreicht, schieße auf jeden neu aufgebauten Basisstern
 
 
 Kommandostand
@@ -114,12 +112,12 @@ Nur aktivieren, wenn du Pilot bist
 
 Waffenkammer
 
-Greife einen Zenturio an
+Greife einen Zenturio an (7+)
 
 
 Krankenstation (Risikoort)
 
-Passiv: Du ziehst währen deines Fertigkeitsschrittes nur 1 Karte
+Passiv: Du ziehst während deines Fertigkeitsschrittes nur 1 Karte
 Hast du eine Bewegung oder Aktion, musst du damit diesen Ort verlassen
 
 
@@ -139,7 +137,7 @@ Pegasus
 
 Pegasus-CIC
 
-Bewege die Pegasus beliebig weit
+Bewege die Pegasus auf ein beliebiges Weltraumfeld
 
 Schieße auf 3 unterschiedliche Ziele im Feld der Pegasus
 
