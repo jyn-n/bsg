@@ -1,10 +1,8 @@
-Schadensmarker (Galactica + Pegasus)
-Colonial one zerstört
-Spielermarker
-Scar
-Zenturios
-Wundermarker
-Atomwaffen
-Basestar Schadensmarker
-Zivilschiffe
-Sprung und Verfolgungsleiste
+Schadensmarker (Galactica + Pegasus + Basisstern)   20 rund       13 + 4 + 2
+Spielermarker   holz
+Zenturios    20 quad
+Wundermarker   28 rund
+Atomwaffen   22 dreieck
+Zivilschiffe   30 quad
+Sprung und Verfolgungsleiste 20 quad holz
+Ressourcenscheiben   80 Wählscheibe
