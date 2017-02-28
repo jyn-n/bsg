@@ -1,5 +1,4 @@
 ﻿Fertigkeitskarten (reworden, Bilder)
-Rueckseiten (Charaktere)
 Charaktere (reworden)
 Zielorte schmaler machen
 Brett (Texte einfuegen, Probedrucke, Raeder-Oberseite, Raeder-Hintergrund ggfs)
