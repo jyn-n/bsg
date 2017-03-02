@@ -3,6 +3,7 @@ Zielorte schmaler machen
 Brett (Texte einfuegen, Probedrucke, Raeder-Oberseite, Raeder-Hintergrund ggfs)
 Colonial One zerstört
 Textfelder Kartenstruktur
+Charaktere (größere Rangfolge/Fertigkeitskarten)
 
 Figuren
 Tokens/Spielfiguren/W8
