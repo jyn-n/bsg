@@ -25,7 +25,7 @@ Ziehe 1 Superkrise
 
 Basisstern-Brücke
 
-Platziere 1 Basisstern oder 3 Jäger in die Verfolgungsflotte
+Platziere 1 Basisstern oder 3 Jäger in den Zylonen-Aufbau
 CAG: Platziere 1 Zivilschiff
 +1 Verfolgung
 
