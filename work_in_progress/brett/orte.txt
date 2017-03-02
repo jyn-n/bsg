@@ -70,7 +70,7 @@ Nur aktivieren, falls der Sprungvorbereitungsmarker auf einem blauen Feld ist
 
 Waffenkontrolle
 
-Schieﬂe auf einen Basisstern (5+)
+Schieﬂe auf 1 Basisstern (5+)
 
 
 
@@ -112,7 +112,7 @@ Nur aktivieren, wenn du Pilot bist
 
 Waffenkammer
 
-Greife einen Zenturio an (7+)
+Greife 1 Zenturio an (7+)
 
 
 Krankenstation (Risikoort)
