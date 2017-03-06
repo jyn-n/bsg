@@ -1,8 +1,51 @@
-﻿Fertigkeitskarten (Bilder Berechnungen, Kommandeur der Basissterne, Verteidigungsformation, Kritische Situation, Spezielle Anweisung, Ordnung Wiederherstellen, Ueberwaeltigender Sieg, Basisdemokratie, Politisches Koennen, Untersuchungskomittee, Macht Festigen, Gott der Zylonen, Gebete werden erhört)
-Brett (Raeder-Oberseite, Raeder-Hintergrund ggfs)
+﻿Fertigkeitskartenbilder
+	Berechnungen
+	Kommandeur der Basissterne
+	Verteidigungsformation
+	Kritische Situation
+	Spezielle Anweisung
+	Ordnung Wiederherstellen
+	Ueberwaeltigender Sieg
+	Basisdemokratie
+	Politisches Koennen
+	Untersuchungskomittee
+	Macht Festigen
+	Gott der Zylonen
+	Gebete werden erhört
 
-Figuren
-Tokens/Spielfiguren/W8
 Brett
+	Raeder-Oberseite
+	Raeder-Hintergrund ggfs
+	Raeume groeszer
+	Raum-Bilder
+		Luftschleuse
+		Maschinenraum
+		Brig
+	Verfolgung: Zivilschiffe rahmen
+	Zylonenaufbau: Trennlinien sichtbarer
+	beschaedigte Viper: groeszer
+	Leisten-Text: Start sichtbarer
+	Viper-Ausflugsdinger
+
+Charakterbilder
+	Sechs
+
+Karten zusammenklicken
+	Charaktere: Scans, pdf ab Seite 32, Gaius, Sechs
+	Fertigkeitskarten
+	Krisen
+	Loyalitaetskarten
+	Meutereikarten
+	Rueckseiten
+	Titel
+	Verbotene Ziele
+	Zielorte
+	Zwoelferratskarten
+	Zylonenfuehrerziele
+
+Tokens klicken, drucken, bekleben
+Spielfiguren gieszen, anmalen
+Brett bedrucken
+W8
 Schachtel
 Karten bestellen
