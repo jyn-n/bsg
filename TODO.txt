@@ -1,6 +1,5 @@
 ﻿Fertigkeitskarten (Bilder Berechnungen, Kommandeur der Basissterne, Verteidigungsformation, Kritische Situation, Spezielle Anweisung, Ordnung Wiederherstellen, Ueberwaeltigender Sieg, Basisdemokratie, Politisches Koennen, Untersuchungskomittee, Macht Festigen, Gott der Zylonen, Gebete werden erhört)
-Brett (Probedrucke, Raeder-Oberseite, Raeder-Hintergrund ggfs)
-Charaktere (Fertigkeitskarten)
+Brett (Raeder-Oberseite, Raeder-Hintergrund ggfs)
 
 Figuren
 Tokens/Spielfiguren/W8
