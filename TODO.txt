@@ -6,12 +6,7 @@
 	Spezielle Anweisung
 	Ordnung Wiederherstellen
 	Ueberwaeltigender Sieg
-	Basisdemokratie
-	Politisches Koennen
-	Untersuchungskomittee
-	Macht Festigen
-	Gott der Zylonen
-
+	
 Brett
 	Raeder-Oberseite
 	Raeder-Hintergrund ggfs
@@ -27,7 +22,7 @@ Brett
 	Viper-Ausflugsdinger
 
 Karten zusammenklicken
-	Charaktere: Scans, pdf ab Seite 32, Gaius
+	Charaktere: Scans, Gaius
 	Fertigkeitskarten
 	Krisen
 	Loyalitaetskarten
