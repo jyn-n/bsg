@@ -13,8 +13,9 @@
 	Viper-Ausflugsdinger
 
 Karten zusammenklicken
-	Fertigkeitskarten
-	Krisen
+	Fertigkeitskarten (nochmal durchschauen)
+	Krisen (Entscheidung, Entscheidung mit Check)
+	Superkrisen
 	Loyalitaetskarten
 	Meutereikarten
 	Rueckseiten
