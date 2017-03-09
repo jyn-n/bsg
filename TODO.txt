@@ -1,13 +1,4 @@
-﻿Fertigkeitskartenbilder
-	Berechnungen
-	Kommandeur der Basissterne
-	Verteidigungsformation
-	Kritische Situation
-	Spezielle Anweisung
-	Ordnung Wiederherstellen
-	Ueberwaeltigender Sieg
-	
-Brett
+﻿Brett
 	Raeder-Oberseite
 	Raeder-Hintergrund ggfs
 	Raeume groeszer
