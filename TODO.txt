@@ -11,7 +11,6 @@
 	Untersuchungskomittee
 	Macht Festigen
 	Gott der Zylonen
-	Gebete werden erhört
 
 Brett
 	Raeder-Oberseite
@@ -27,14 +26,8 @@ Brett
 	Leisten-Text: Start sichtbarer
 	Viper-Ausflugsdinger
 
-Charakterbilder
-	Sechs
-
-Rangfolge
-	Hardball Admiral+3 (? dann ist sie genau zwischen den Piloten und Supportern)
-
 Karten zusammenklicken
-	Charaktere: Scans, pdf ab Seite 32, Gaius, Sechs
+	Charaktere: Scans, pdf ab Seite 32, Gaius
 	Fertigkeitskarten
 	Krisen
 	Loyalitaetskarten
