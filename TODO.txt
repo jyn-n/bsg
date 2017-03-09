@@ -13,7 +13,6 @@
 	Viper-Ausflugsdinger
 
 Karten zusammenklicken
-	Charaktere: Scans, Gaius
 	Fertigkeitskarten
 	Krisen
 	Loyalitaetskarten
