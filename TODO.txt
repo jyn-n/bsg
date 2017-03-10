@@ -1,29 +1,15 @@
 ﻿Brett
 	Raeder-Oberseite
 	Raeder-Hintergrund ggfs
-	Raeume groeszer
-	Raum-Bilder
-		Luftschleuse
-		Maschinenraum
-		Brig
-	Verfolgung: Zivilschiffe rahmen
-	Zylonenaufbau: Trennlinien sichtbarer
-	beschaedigte Viper: groeszer
-	Leisten-Text: Start sichtbarer
-	Viper-Ausflugsdinger
 
 Karten zusammenklicken
-	Fertigkeitskarten (nochmal durchschauen)
-	Krisen (Entscheidung, Entscheidung mit Check)
+	Krisen (nochmal durchschauen)
 	Superkrisen
 	Loyalitaetskarten
 	Meutereikarten
 	Rueckseiten
 	Titel
-	Verbotene Ziele
 	Zielorte
-	Zwoelferratskarten
-	Zylonenfuehrerziele
 
 Tokens klicken, drucken, bekleben
 Spielfiguren gieszen, anmalen
