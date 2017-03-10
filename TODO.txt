@@ -5,10 +5,8 @@
 Karten zusammenklicken
 	Krisen (nochmal durchschauen)
 	Superkrisen
-	Loyalitaetskarten
 	Meutereikarten
 	Rueckseiten
-	Titel
 	Zielorte
 
 Tokens klicken, drucken, bekleben
