@@ -9,7 +9,6 @@ Karten zusammenklicken
 	Meutereikarten
 	Rueckseiten
 	Titel
-	Verbotene Ziele
 	Zielorte
 
 Tokens klicken, drucken, bekleben
