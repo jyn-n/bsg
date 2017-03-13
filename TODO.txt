@@ -2,9 +2,6 @@
 	Raeder-Oberseite
 	Raeder-Hintergrund ggfs
 
-Karten zusammenklicken
-	Superkrisen
-
 Tokens klicken, drucken, bekleben
 Spielfiguren gieszen, anmalen
 Brett bedrucken
