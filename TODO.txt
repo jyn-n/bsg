@@ -3,9 +3,7 @@
 	Raeder-Hintergrund ggfs
 
 Karten zusammenklicken
-	Krisen (nochmal durchschauen)
 	Superkrisen
-	Meutereikarten
 	Rueckseiten
 	Zielorte
 
@@ -15,3 +13,7 @@ Brett bedrucken
 W8
 Schachtel
 Karten bestellen
+
+
+
+
