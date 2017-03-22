@@ -1,11 +1,7 @@
-﻿Brett
-	Raeder-Oberseite
-	Raeder-Hintergrund ggfs
-
-Tokens drucken, bekleben
-Spielfiguren gieszen, anmalen
+﻿Tokens drucken, bekleben
+Spielfiguren anmalen
 Brett bedrucken
 W8
 Schachtel
-Karten bestellen
+
 
