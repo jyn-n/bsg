@@ -1,0 +1,12 @@
+Brett:
+	Luftschleuse keine Meutereikarte
+	9er sehen sehr wie 8er aus
+	Fertigkeitskartenstapel mehr auf dem Brett verteilen
+	Enterkommandoleiste verschieben?
+	Waffensteuerung/Pegasus wird zu wenig verwendet
+	
+Karten:
+	nach einer Zahl kommt eine neue Zeile (z.B. Monotheist/Dradiskontakt)
+	Blau ist auf Krisen schwer zu sehen
+	Pfeil des Apollo geht nur auf anderen Spieler
+	Aufdeckeffekte stärker?
