@@ -5,6 +5,7 @@ Brett:
 	Enterkommandoleiste verschieben?
 	Waffensteuerung/Pegasus wird zu wenig verwendet
 	Waffensteuerung/kontrolle (welcher Name?)	
+	Hangar (Man kann auch in einem Raptor starten)
 Karten:
 	nach einer Zahl kommt eine neue Zeile (z.B. Monotheist/Dradiskontakt)
 	Blau ist auf Krisen schwer zu sehen
@@ -12,3 +13,6 @@ Karten:
 	Aufdeckeffekte stärker?
 	Krise: Fuehrungswechsel
 	Zielort: Bleibe und Kaempfe
+	Druck auf Versorgungsschiffe
+	Billy?
+	Der Hybrid geraet in Panik
