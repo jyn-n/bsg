@@ -1,0 +1,9 @@
+Menschen:
+	Check
+	Zenturio
+	Spring auf 9
+	Zylonensieg
+
+Zylonen:
+	Flotte springt auf 4 Viperfelder
+	Eine Ressource blau
