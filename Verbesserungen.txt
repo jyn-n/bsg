@@ -34,3 +34,4 @@ Karten:
 	Fuehrungswechsel
 	Geheime Treffen
 	Gaeta (59)
+	Schuldig gesprochen
