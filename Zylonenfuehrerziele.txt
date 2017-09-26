@@ -3,6 +3,7 @@ Menschen:
 	Zenturio
 	Spring auf 9
 	Zylonensieg
+	2 Spieler nicht mehr den urspruenglichen Titel
 
 Zylonen:
 	Flotte springt auf 4 Viperfelder

@@ -35,3 +35,8 @@ Karten:
 	Geheime Treffen
 	Gaeta (59)
 	Schuldig gesprochen
+	Rufmord (Flavortext)
+	Anfaengerfehler (macht nix)
+	
+
+Man kann einen Char bauen, der Karten vom Schicksalsstapel zieht
