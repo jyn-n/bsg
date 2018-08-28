@@ -37,6 +37,11 @@ Karten:
 	Schuldig gesprochen
 	Rufmord (Flavortext)
 	Anfaengerfehler (macht nix)
+	Gaeta (59) kommt zuerst aus der Brig, dann Titel
+	CAG: Weitergeben als zusätzliche Kosten
+	
+
+Am Spielbeginn kann man je nach Position unterschiedlich viele Karten abwerfen
 	
 
 Man kann einen Char bauen, der Karten vom Schicksalsstapel zieht
