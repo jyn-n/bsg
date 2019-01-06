@@ -6,40 +6,57 @@ Brett:
 	Waffensteuerung/Pegasus wird zu wenig verwendet
 	Waffensteuerung/kontrolle (welcher Name?)	
 	Hangar (Man kann auch in einem Raptor starten)
-Karten:
-	nach einer Zahl kommt eine neue Zeile (z.B. Monotheist/Dradiskontakt)
-	Blau ist auf Krisen schwer zu sehen
-	Pfeil des Apollo geht nur auf anderen Spieler
-	Aufdeckeffekte st‰rker?
-	Krise: Fuehrungswechsel
-	Zielort: Bleibe und Kaempfe
-	Druck auf Versorgungsschiffe
-	Billy?
-	Der Hybrid geraet in Panik
-	Druck auf Versorgungsschiffe
-	Hardball (nicht im Raptor, wird Pilot)
-	Simon O'Neill zf+zivi
-	Psycholigische Kriegsfuehrung
-	Zylon(Chaos)
-	Aaron Doral (Zf kein infiltrieren)
+	Lila und Blau unterscheiden
+
+Fertigkeitskarten:
+x	Macht festigen
+
+Charaktere:
+x	Gaeta (59) kommt zuerst aus der Brig, dann Titel
+x	Kendra Shaw (74) Vor- und Nachteil klarstellen 
+x	Kat (56) vertauschen
+x	Kendra (75) zweimal Razor
+x	Danna (Reporter) keine Final Five
+x	Lee (Bemanner) Vorteil nur 1 mal pro Zug
+x	Laura Roslin (Alle 12Karten angucken, nur eine Karte abwerfen)
+x	Aaron Doral (Zf kein infiltrieren)
+x	Billy?
+x	Hardball (nicht im Raptor, wird Pilot)
+x	Simon oneill supporter interessanter
+
+Zylonenfuehrerziele:
 	Zylonenfuehrerziele (Exekution)
-	Felix Gaeta (Wunderaktion)
-	Laura Roslin (Alle 12Karten angucken, nur eine Karte abwerfen)
-	Simon oneill supporter interessanter	
-	Kendra (75) zweimal Razor
-	Danna (Reporter) keine Final Five
-	Lee (Bemanner) Vorteil nur 1 mal pro Zug
-	Sicherheitschef einweisen Rechtschreibfehler
-	Kat (56) vertauschen
-	Fuehrungswechsel
-	Geheime Treffen
-	Gaeta (59)
-	Schuldig gesprochen
-	Rufmord (Flavortext)
-	Anfaengerfehler (macht nix)
-	Gaeta (59) kommt zuerst aus der Brig, dann Titel
-	CAG: Weitergeben als zus√§tzliche Kosten
-	Kendra Shaw (74) Vor- und Nachteil klarstellen 	
+
+Krisen:
+x	Krise: Fuehrungswechsel
+x	Blau ist auf Krisen schwer zu sehen
+x	Sicherheitschef einweisen Rechtschreibfehler
+x	Druck auf Versorgungsschiffe
+x	Psycholigische Kriegsfuehrung
+x	Der Hybrid geraet in Panik
+x	Fuehrungswechsel
+x	Geheime Treffen
+x	Anfaengerfehler (macht nix)
+x	Schuldig gesprochen
+
+Zwoelferratskarten:
+x	Pfeil des Apollo geht nur auf anderen Spieler
+
+Titel:
+x	CAG: Weitergeben als zus√§tzliche Kosten
+
+Zielorte:
+x	Bleibe und Kaempfe
+
+Meutereikarten:
+x	Rufmord (Flavortext)
+
+Zylonen:
+x	Chaos
+x	Aufdeckeffekte st‰rker?
+
+Anderes:
+
 
 Am Spielbeginn kann man je nach Position unterschiedlich viele Karten abwerfen
 	
