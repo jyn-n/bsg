@@ -7,3 +7,6 @@ Brett:
 	Waffensteuerung/kontrolle (welcher Name?)	
 	Hangar (Man kann auch in einem Raptor starten)
 	Lila und Blau unterscheiden
+
+Karten:
+	Manipulation (Zylon) Mehrzahl bei Karten
