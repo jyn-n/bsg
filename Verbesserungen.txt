@@ -7,15 +7,20 @@ Brett:
 	Waffensteuerung/kontrolle (welcher Name?)	
 	Hangar (Man kann auch in einem Raptor starten)
 	Lila und Blau unterscheiden
+	Maschinenraum (nicht dein, sondern in diesem Zug)
 
 Karten:
 	Zylon: Manipulation (Mehrzahl bei Karten)
 	Umstrittenes Manuskript (Schaden statt Beschädigung)
 	Samuel T. Anders (52) (ein Ort kursiv)
 	Psychologische Kriegsführung (ein k zu viel)
-	Ein Handel (umgeändert)
+	Ein Handel (umgeänder, nochmal anders)
 	Tom Zarek (Kreis als Unterbrechung und besser als Zylon)
 	Zylonenführer-Brig-Ziel - Rache üben (umgeändert)
 	Alastair Thorne (Fähigkeit nur einmal pro Zug)
 	Starbuck (53) (Fähigkeit auch in anderen Zügen)
 	Felix Gaeta (57) (Fähigkeit nur einmal pro Zug)
+	Barry Garner (nicht in der Brig)
+	Didi Cassidy (nur 3 Karten)
+
+Neu: 	Aaron Doral anders
